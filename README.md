@@ -9,8 +9,16 @@ Almost entirely based on the page action by content sample extension provide by 
 
 instructions
 --------
+**In Chrome, open Settings**<br>
 ![Select settings](instructions/instructions-1-select-settings.png)<br>
+<br>
+**Then select Extensions in the menu on the left**<br>
 ![Select extensions](instructions/instructions-2-select-extensions.png)<br>
+<br>
+**Click the Pack Extension button**<br>
 ![Click the pack extension button](instructions/instructions-3-click-pack-extension-button.png)<br>
+**Browse to the Extension folder *(WITHIN the containing middila folder)***<br>
 ![Browse to extensions folder](instructions/instructions-4a-browse-to-extensions folder.png)<br>
+**Select the Extension folder within the middila folder**<br>
 ![Select the extensions folder within the middila folder](instructions/instructions-4b-browse-to-extensions folder.png)<br>
+Then pack it up, pack it in.
