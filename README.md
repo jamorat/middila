@@ -9,8 +9,8 @@ Almost entirely based on the page action by content sample extension provide by 
 
 instructions
 --------
-![Before and after](instructions/instructions-1-select-settings.jpg)<br>
-![Before and after](instructions/instructions-2-select-extensions.jpg)<br>
-![Before and after](instructions/instructions-3-click-pack-extension-button.jpg)<br>
-![Before and after](instructions/instructions-4a-browse-to-extensions folder.jpg)<br>
-![Before and after](instructions/instructions-4b-browse-to-extensions folder.jpg)<br>
+![Select settings](instructions/instructions-1-select-settings.png)<br>
+![Select extensions](instructions/instructions-2-select-extensions.png)<br>
+![Click the pack extension button](instructions/instructions-3-click-pack-extension-button.png)<br>
+![Browse to extensions folder](instructions/instructions-4a-browse-to-extensions folder.png)<br>
+![Select the extensions folder within the middila folder](instructions/instructions-4b-browse-to-extensions folder.png)<br>
