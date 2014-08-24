@@ -6,8 +6,14 @@ Per the farcical suggestion of a beloved Mac pundit, all 'Album Only' text in Ch
 ![Before and after](before_and_after.jpg)<br>
 Almost entirely based on the page action by content sample extension provide by Google  [here](http://chrome-apps-doc2.appspot.com/trunk/extensions/samples.html#fad62e9f7f55a4c7a8add7662b166779)
 
+<br>
+instructions to use
+--------
+Simply open Chrome settings, choose Extensions from the menu on the left, and click the 'Load Unpacked Extension' button.<br>
+*Be sure to select the Extensions folder within the middila folder*<br>
+You can test it by reloading this page. You will see these words: album only replaced with a middle finger. 
 
-instructions
+instructions to pack it up
 --------
 **In Chrome, open Settings**<br>
 ![Select settings](instructions/instructions-1-select-settings.png)<br>
