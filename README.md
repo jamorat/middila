@@ -21,4 +21,4 @@ instructions
 ![Browse to extensions folder](instructions/instructions-4a-browse-to-extensions folder.png)<br>
 **Select the Extension folder within the middila folder**<br>
 ![Select the extensions folder within the middila folder](instructions/instructions-4b-browse-to-extensions folder.png)<br>
-Then pack it up, pack it in.
+**Then pack it up, pack it in.**
