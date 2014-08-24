@@ -11,7 +11,7 @@ instructions to use
 --------
 Simply open Chrome settings, choose Extensions from the menu on the left, and click the 'Load Unpacked Extension' button.<br>
 *Be sure to select the Extensions folder within the middila folder*<br>
-You can test it by reloading this page. You will see these words: album only replaced with a middle finger. 
+You can test it by reloading this page. You will see these words: Album Only replaced with a middle finger. 
 
 instructions to pack it up
 --------
